@@ -1,0 +1,11 @@
+ubuntu-system-adjustments (1.0.1) maverick; urgency=low
+
+  * new .desktop
+
+ -- Mario Colque <mario@tuquito.org.ar>  Sat, 23 Oct 2010 20:14:33 -0300
+
+ubuntu-system-adjustments (1.0.0) maverick; urgency=low
+
+  * Initial release
+
+ -- Mario Colque <mario@tuquito.org.ar>  Mon,  11 Oct 2010 10:48:00 -3000

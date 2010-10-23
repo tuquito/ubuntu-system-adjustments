@@ -1,0 +1,3 @@
+/usr/share/ubuntu-system-adjustments/gdm/failsafeXinit /etc/gdm/failsafeXinit
+/usr/share/ubuntu-system-adjustments/xsessions/gnome.desktop /usr/share/xsessions/gnome.desktop
+/usr/share/ubuntu-system-adjustments/xsessions/gnome-failsafe.desktop /usr/share/xsessions/gnome-failsafe.desktop

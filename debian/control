@@ -1,0 +1,12 @@
+Source: ubuntu-system-adjustments
+Section: admin
+Priority: optional
+Maintainer: Mario Colque <mario@tuquito.org.ar>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: ubuntu-system-adjustments
+Architecture: all
+Depends: tuquito-system
+Description: Adjustments to the Ubuntu package base
+ These adjustments modify some unwanted behaviors of the Ubuntu package base and are specific to this base.
