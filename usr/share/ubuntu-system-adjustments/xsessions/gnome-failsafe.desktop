@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Gnome (Safe Mode)
 Comment=This session logs you into GNOME without user applications
-Exec=gnome-session -f
+Exec=gnome-session -f --session=2d-gnome
 TryExec=gnome-session
 X-GDM-FailSafe=true
 Icon=
