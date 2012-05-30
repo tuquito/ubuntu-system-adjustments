@@ -1,3 +1,9 @@
+ubuntu-system-adjustments (1.0.4) precise; urgency=low
+
+  * Yelp removed
+
+ -- Mario Colque <mario@tuquito.org.ar>  Wed, 30 May 2012 18:51:22 -0300
+
 ubuntu-system-adjustments (1.0.3) precise; urgency=low
 
   * Guarani branch
