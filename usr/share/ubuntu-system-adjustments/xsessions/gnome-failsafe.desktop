@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Gnome (Safe Mode)
-Comment=This session logs you into GNOME without user applications
-Exec=gnome-session -f --session=2d-gnome
-TryExec=gnome-session
-X-GDM-FailSafe=true
-Icon=
-Type=Application
-X-Ubuntu-Gettext-Domain=gnome-session-2.0

@@ -1,6 +1,2 @@
-/usr/share/ubuntu-system-adjustments/gdm/failsafeXinit /etc/gdm/failsafeXinit
-/usr/share/ubuntu-system-adjustments/xsessions/gnome.desktop /usr/share/xsessions/gnome.desktop
-/usr/share/ubuntu-system-adjustments/xsessions/gnome-failsafe.desktop /usr/share/xsessions/gnome-failsafe.desktop
-/usr/share/ubuntu-system-adjustments/xsessions/gnome-2d.desktop /usr/share/xsessions/gnome-2d.desktop
-/usr/share/ubuntu-system-adjustments/xsessions/gnome-classic.desktop /usr/share/xsessions/gnome-classic.desktop
 /usr/share/ubuntu-system-adjustments/aptoncd/aptoncd.desktop /usr/share/applications/aptoncd.desktop
+/usr/share/ubuntu-system-adjustments/yelp/yelp.desktop /usr/share/applications/yelp.desktop

@@ -1,3 +1,11 @@
+ubuntu-system-adjustments (1.0.3) precise; urgency=low
+
+  * Guarani branch
+  * Mate support
+  * Yelp to Tuquito Docs
+
+ -- Mario Colque <mario@tuquito.org.ar>  Tue, 29 May 2012 19:44:44 -0300
+
 ubuntu-system-adjustments (1.0.2) natty; urgency=low
 
   * Fixed typo in AptOnCD menu launcher
